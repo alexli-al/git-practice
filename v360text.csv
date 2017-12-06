@@ -27735,4 +27735,4 @@ aca_admin_globalsetting_label_home_page,"Agency Homepage (e.g. CustomHomepage.as
 errors.ams.useageinterval.required,Required if Template is not null.,Error - SR,7-Jun-06,Amy,A,US,en
 errors.ams.template.required,Required if Usage Interval is not null.,Error - SR,7-Jun-06,Amy,A,US,en
 error.report.string.type.parameter,"{0}'s value should not contain single quotes.<br>",Error-Validation,09/12/2017,ADMIN,A,US,en
-
+error.report.string.type.parameter,"{0}'s value should not contain single quotes.<br>",Error-Validation,09/12/2017,ADMIN,A,US,en
