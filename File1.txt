@@ -1,0 +1,2 @@
+How to resolve the conflict when merging code from one branch to another branch via git tools, any one know that?
+
